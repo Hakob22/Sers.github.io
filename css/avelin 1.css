@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma,sans-serif;
+}
+.ver h1{
+    color: chocolate;
+    margin: 20px;
+}
+.ver{
+    text-align: center;
+}

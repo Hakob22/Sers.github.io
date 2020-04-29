@@ -1,0 +1,26 @@
+body {
+      background-image: url(../img/sers.jpg);
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+      margin: 0;
+      padding: 0;
+    background-size: cover;
+    }
+    .swiper-container {
+      width: 100%;
+      padding-top: 80px;
+      padding-bottom: 80px;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: 500px;
+      height: 400px;
+
+    }
+
+.detalis {
+    color: chocolate;
+    text-align: center;
+}
